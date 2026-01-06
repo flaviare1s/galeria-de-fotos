@@ -127,7 +127,6 @@ A busca filtra as fotos instantaneamente conforme você digita, comparando com o
 
 As fotos são carregadas do de um arquivo json
 
-
 ## 👤 Autor
 
 Desenvolvido por [flaviare1s](https://github.com/flaviare1s)
