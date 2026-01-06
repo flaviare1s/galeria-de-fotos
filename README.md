@@ -16,7 +16,7 @@ Uma aplicação web moderna e responsiva para visualizar, filtrar e pesquisar fo
 - 🎨 **Efeitos Interativos**: Hover com escala e sombra nas fotos
 - 📱 **Totalmente Responsivo**: Layout adaptável para desktop, tablet e mobile
 - 🚀 **Performance Otimizada**: Lazy loading de imagens
-- 💾 **Dados Estáticos**: Fotos carregadas de arquivo JSON local
+- 💾 **Dados Estáticos**: Fotos carregadas de arquivo JSON local (imagens da [Unsplash](https://unsplash.com))
 
 ## 🛠️ Tecnologias Utilizadas
 

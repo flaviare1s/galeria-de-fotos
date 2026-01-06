@@ -15,7 +15,7 @@ A modern and responsive web application to view, filter, and search photos in re
 - 🎨 **Interactive Effects**: Hover effects with scale and shadow on photos
 - 📱 **Fully Responsive**: Adaptive layout for desktop, tablet, and mobile
 - 🚀 **Optimized Performance**: Image lazy loading
-- 💾 **Static Data**: Photos loaded from local JSON file
+- 💾 **Static Data**: Photos loaded from local JSON file (images from [Unsplash](https://unsplash.com))
 
 ## 🛠️ Technologies Used
 
